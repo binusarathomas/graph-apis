@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "graph-apis",
+    "libraryId": "986756c2-338f-4fb3-a06d-63d47ddb72a6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "GraphApis",
+    "solutionShortDescription": "GraphApis description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
